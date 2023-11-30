@@ -1,0 +1,19 @@
+{
+    "name": "fadhil/bikinlibrary",
+    "description": "bikin library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fadhilzamanNow",
+            "email": "fadhilisfadhillah@gmail.com"
+        }
+    ],
+    "autoload" :{
+        "psr-4" :{
+            "Belajar\\Aja\\" : "src/"
+        }
+    },
+    "require": {
+        "php" : ">=8.0"
+    }
+}
